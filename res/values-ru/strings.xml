@@ -47,7 +47,7 @@
     <string name="radioInfo_data_disconnected" msgid="1959735267890719418">"Отключено"</string>
     <string name="radioInfo_data_connecting" msgid="8404571440697917823">"Подключение"</string>
     <string name="radioInfo_data_connected" msgid="7074301157399238697">"Подключено"</string>
-    <string name="radioInfo_data_suspended" msgid="5315325487890334196">"Приостановлено"</string>
+    <string name="radioInfo_data_suspended" msgid="5315325487890334196">"Приостановлен"</string>
     <string name="radioInfo_unknown" msgid="737385314432468266">"неизвестно"</string>
     <string name="radioInfo_display_packets" msgid="8654359809877290639">"pkts"</string>
     <string name="radioInfo_display_bytes" msgid="4018206969492931883">"байт"</string>
